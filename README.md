@@ -92,7 +92,7 @@ After your has been install jdk and jre you need to follow this step to continue
   
   
   (imagen)
-  ![Alt Text](https://github.com/{user}/{repo}/raw/{branch}/path/to/image.gif)
+  ![Alt Text](https://github.com/tiagoj61/Analysis-Ips-and-Hops/issues/1)
 
   
   
