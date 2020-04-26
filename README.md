@@ -1,6 +1,8 @@
 # Analysis-Ips-and-Hops
 A short analysis of interact between ips and hops
 
+![Alt Text](https://user-images.githubusercontent.com/62123056/80319593-911ccb80-87e7-11ea-8388-bc3e85616484.gif)
+
 ## Prerequisites
 
 For this project, you need a version of jre and jdk installed on your machine and the gephi, the graphos tool
@@ -90,11 +92,9 @@ After your has been install jdk and jre you need to follow this step to continue
   
   the result is:
   
-  
-  (imagen)
   ![Alt Text](https://user-images.githubusercontent.com/62123056/80319401-4fd7ec00-87e6-11ea-9fc9-8cef66a8c387.png)
-
-  
+  #### This is the grafo with all the nodes, without filter
+ 
   
   
   
