@@ -62,6 +62,8 @@ After your has been install jdk and jre you need to follow this step to continue
   
 ### Using Gephi tool
 
+  #### Preparing
+  
   before use the Gephi, you need to prepare the information for it, in execel, create a colum named id<br/>
   this colum need to has a crescent number begins by zero until the number of site's ips and after this collum<br/>
   create a collun named table who has all the ips one by one, one for line and save with the extension ".csv"<br/>
@@ -74,10 +76,13 @@ After your has been install jdk and jre you need to follow this step to continue
   
   #### Exemple 
   
-  Node.csv
-  Edges.csv
+  Node.csv<br/>
+  Edges.csv<br/>
   
+  #### Applying
   
+  Now with the information on the Gephi we can filter by a lot of things, but in this program we will filter by<br/>
+  the quantit of nodes who has the quantiti of interacts with other nodes more than 2
   
 
   
