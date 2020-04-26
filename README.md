@@ -82,7 +82,7 @@ After your has been install jdk and jre you need to follow this step to continue
   #### Applying
   
   Now with the information on the Gephi we can filter by a lot of things, but in this program we will filter by<br/>
-  the quantit of nodes who has the quantiti of interacts with other nodes more than 2
+  the quantity of nodes who has the quantity of interacts with other nodes more than 2
   
 
   
