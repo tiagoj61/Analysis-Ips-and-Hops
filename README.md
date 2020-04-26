@@ -64,6 +64,20 @@ After your has been install jdk and jre you need to follow this step to continue
 
   before use the Gephi, you need to prepare the information for it, in execel, create a colum named id<br/>
   this colum need to has a crescent number begins by zero until the number of site's ips and after this collum<br/>
-  create a collun named table who has all the ips one by one, one for line
+  create a collun named table who has all the ips one by one, one for line and save with the extension ".csv"<br/>
+  
+  now you can open the Gephi, create new project and import this archive with the nodes.<br/>
+  
+  create other archive for the edges by analysis the content build by the code and in one collum named source<br/>
+  this collum will be content for the node who the ip is jumping, and another collum named target with the content<br/>
+  of the node who is the target of the jumping.<br/>
+  
+  #### Exemple 
+  
+  Node.csv
+  Edges.csv
+  
+  
+  
 
   
