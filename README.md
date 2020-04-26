@@ -92,7 +92,7 @@ After your has been install jdk and jre you need to follow this step to continue
   
   
   (imagen)
-  (https://user-images.githubusercontent.com/62123056/80319401-4fd7ec00-87e6-11ea-9fc9-8cef66a8c387.png)
+  ![Alt Text](https://user-images.githubusercontent.com/62123056/80319401-4fd7ec00-87e6-11ea-9fc9-8cef66a8c387.png)
 
   
   
@@ -103,6 +103,6 @@ After your has been install jdk and jre you need to follow this step to continue
   
   
   
-  ##Conclusion
+  ## Conclusion
   
   
