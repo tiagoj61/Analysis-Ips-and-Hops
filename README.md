@@ -86,24 +86,28 @@ After your has been install jdk and jre you need to follow this step to continue
   things, but in this program we will filter by the quantity of nodes who has the quantity of interacts<br/>
   with other nodes more than two.<br/>
   
-  Another applicantion for this porject, by the way this is not appliin in this project presents can be used for find a local in a wide who has been the most frenquetly ttl, using it<br/>
-  the entreprise can save money and time by find the problem, in expecific about ttl, and soluctioning this.<br/>
+ 
   
   the result is:
   
   
-  (imagen)
+
   ![Alt Text](https://user-images.githubusercontent.com/62123056/80319703-43ed2980-87e8-11ea-9b68-586545bfb28b.gif)
 
+  the content in this grafo is aboute all the nodes and edges collected 
   
   
+ 
   
   
+   ![Alt Text](https://user-images.githubusercontent.com/62123056/80380845-7f363980-8876-11ea-9b64-8fd3ffb1ca1a.gif)
   
-  
+  the content in this grafo is aboute the grafo after been filtred for only nodes who has more than two jumps
   
   
   
   ## Conclusion
   
+   Another applicantion for this porject, by the way this is not appliin in this project presents can be used for find a local in a wide who has been the most frenquetly ttl, using it<br/>
+  the entreprise can save money and time by find the problem, in expecific about ttl, and soluctioning this.<br/>
   
