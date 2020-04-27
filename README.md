@@ -108,6 +108,8 @@ After your has been install jdk and jre you need to follow this step to continue
   
   ## Conclusion
   
-   Another applicantion for this porject, by the way this is not appliin in this project presents can be used for find a local in a wide who has been the most frenquetly ttl, using it<br/>
+  This project can be use for anyone for know the way from your computer, or any ip, to another ip
+  
+  Another applicantion for this porject, by the way this is not appliin in this project presents can be used for find a local in a wide   who has been the most frenquetly ttl, using it<br/>
   the entreprise can save money and time by find the problem, in expecific about ttl, and soluctioning this.<br/>
   
