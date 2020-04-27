@@ -109,9 +109,17 @@ After your has been install jdk and jre you need to follow this step to continue
   ## Conclusion
   
   This project can be used to find the path from your computer, or any other ip, to any other.<br/>
+    
+  Although it was not used for this, other applications for this project:<br/>
   
+  #### TTL
   
-  Although it was not used for this, Another application for this project, is to be used to find<br/>
-  a location on a network that has most often been ttl, using it the company can save money and time<br/>
-  by finding the problem, especially on ttl, and solving it before it reaches customers.<br/>
+  The project can be use to find a location on a network that has most often been ttl, using it<br/>
+  the company can save money and time by finding the problem, especially on ttl, and solving it<br/>
+  before it reaches customers.<br/>
   
+  #### Change route
+  
+  By changin a simples line of the code, ListClonnedIps, we can has a return of the valocity by one hop<br/>
+  for another, considering it, it can be used for change the route for the ip, by find a route who has a higher<br/>
+  velocity of response.
